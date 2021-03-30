@@ -1,0 +1,39 @@
+{  
+    "More":
+  [
+  
+],
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "url_webview": "https://www.indoappdev.xyz/",
+
+        "appid": "",
+        "admobappid": "",
+        "interid": "",
+        "bannerid":"",
+        "openid":"",
+    
+        "pengaturan_iklan":"1",
+       
+        
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner":"287160999270192_295822461737379",
+
+        "interval":5,
+        "startappid":"123454689",
+
+        
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ]
+}
