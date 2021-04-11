@@ -3,7 +3,7 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "select_ads": "1",
+      "select_ads": "ADMOB",
       "packagename": "YOUR_PLACEMENT_ID",
 
 
@@ -15,7 +15,7 @@
       "admob_open":"ca-app-pub-6320795547579018/9161482994",
 
       "startappid": "",
-      "interval":"3",
+      "interval":"4",
 
 
 
