@@ -3,20 +3,20 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "select_ads": "1",
+      "select_ads": "STARTAPP",
       "packagename": "YOUR_PLACEMENT_ID",
 
 
 
-      "admob_banner":"ca-app-pub-6320795547579018/9883188679",
-      "admob_inter":"ca-app-pub-6320795547579018/6737747637",
-      "admob_native": "ca-app-pub-6320795547579018/2798502621",
-      "admob_native_banner": "ca-app-pub-6320795547579018/7170375365",
-      "admob_open":"ca-app-pub-6320795547579018/7122273906",
-      "admob_reward":"ca-app-pub-6320795547579018/2944399329",
+      "admob_banner":"XXXXXXca-app-pub-6320795547579018/9883188679",
+      "admob_inter":"XXXXXXca-app-pub-6320795547579018/6737747637",
+      "admob_native": "XXXXXXca-app-pub-6320795547579018/2798502621",
+      "admob_native_banner": "XXXXXXca-app-pub-6320795547579018/7170375365",
+      "admob_open":"XXXXXXca-app-pub-6320795547579018/7122273906",
+      "admob_reward":"XXXXXXca-app-pub-6320795547579018/2944399329",
 
-      "startappid": "",
-      "interval":"3",
+      "startappid": "203566011",
+      "interval":"4",
 
 
 
