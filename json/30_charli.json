@@ -1,7 +1,7 @@
 {
   "Ads": [
       {
-      "status_app": "0",
+      "status_app": "STARTAPP",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       "select_ads": "1",
       "packagename": "YOUR_PLACEMENT_ID",
