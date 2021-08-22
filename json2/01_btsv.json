@@ -9,7 +9,7 @@
       "select_banner":"XADMOB",
       "select_inter":"XAPPLOVIN",
       "select_reward":"XAPPLOVIN",
-      "select_backup_reward":"ADMOB",
+      "select_backup_reward":"XADMOB",
       "select_backup_ads":"xADMOB",
 
 
@@ -29,7 +29,7 @@
 
 
       "interval": 5,
-      "startappid": "205147161",
+      "startappid": "204087512",
       "age1": 18,
       "age2": 30,
 
