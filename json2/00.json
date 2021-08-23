@@ -4,17 +4,17 @@
       "initial_admob":"NO",
       "initial_mopub":"NO",
       "initial_applovin":"NO",
-      "initial_startapp":"NO",
+      "initial_startapp":"YES",
 
-      "select_banner":"XADMOB",
-      "select_inter":"XAPPLOVIN",
-      "select_reward":"XAPPLOVIN",
-      "select_backup_reward":"ADMOB",
-      "select_backup_ads":"xADMOB",
+      "select_banner":"STARTAPP",
+      "select_inter":"STARTAPP",
+      "select_reward":"STARTAPP",
+      "select_backup_reward":"STARTAPP",
+      "select_backup_ads":"STARTAPP",
 
 
 
-      "main_puzzle": "NO",
+      "main_puzzle": "YES",
       "status_app": "0879869867896879667567576",
       "link_redirect": "https://",
       "backup_mode": "NO",
@@ -29,7 +29,7 @@
 
 
       "interval": 5,
-      "startappid": "205147161",
+      "startappid": "204087512",
       "age1": 18,
       "age2": 30,
 
