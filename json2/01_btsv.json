@@ -3,11 +3,11 @@
     {
       "initial_admob":"NO",
       "initial_mopub":"NO",
-      "initial_applovin":"NO",
-      "initial_startapp":"NO",
+      "initial_applovin":"YES",
+      "initial_startapp":"YES",
 
-      "select_banner":"XADMOB",
-      "select_inter":"XAPPLOVIN",
+      "select_banner":"STARTAPP",
+      "select_inter":"APPLOVIN",
       "select_reward":"XAPPLOVIN",
       "select_backup_reward":"XADMOB",
       "select_backup_ads":"xADMOB",
@@ -41,7 +41,7 @@
       "mopub_reward": "XX",
 
       "applovin_banner": "XX",
-      "applovin_inter": "xx",
+      "applovin_inter": "06541748b5c998ff",
       "applovin_reward": "xx",
       "applovin_mrec": "xx"
     }
