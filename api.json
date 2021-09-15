@@ -7,11 +7,11 @@
   "p5": "198.168.56.24",
 
   "po": "80",
-  "un": "username",
-  "pu": "password proxy",
-  "premiumip": "123",
-  "premiumport": "8888",
-  "premiumusername": "premium username",
-  "premiumpassword": "premiumpass",
+  "un": "",
+  "pu": "",
+  "premiumip": "198.168.56.24",
+  "premiumport": "80",
+  "premiumusername": "",
+  "premiumpassword": "",
   "homepage": "https://yoweslah.github.io"
 }
