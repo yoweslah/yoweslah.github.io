@@ -2,15 +2,15 @@
   "Ads": [
     {
       "initial_admob":"YES",
-      "initial_mopub":"YES",
-      "initial_applovin":"NO",
+      "initial_mopub":"NO",
+      "initial_applovin":"YES",
       "initial_startapp":"NO",
 
       "select_banner":"ADMOB",
       "select_inter":"ADMOB",
       "select_reward":"XAPPLOVIN",
       "select_backup_reward":"XADMOB",
-      "select_backup_ads":"MOPUB",
+      "select_backup_ads":"APPLOVIN",
 
 
 
