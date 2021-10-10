@@ -1,0 +1,32 @@
+{
+  "Ads": [
+    {
+
+      "select_ads":"ADMOBX",
+      "select_backup_ads":"IRONX",
+
+      "main_ads_inter":"DefaultInterstitial",
+      "main_ads_banner":"DefaultBanner",
+
+      "backup_ads_inter":"DefaultInterstitial",
+      "backup_ads_banner":"DefaultBanner",
+
+      "initial_sdk":"INITIALIZE_SDK",
+      "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
+
+      "interval":0,
+
+
+      "admob_native": "",
+      "admob_open": "",
+
+      "startappid":"4355345",
+      "ironid":"5464646",
+      "unityid":"5464646",
+
+      "main_puzzle": "YES",
+      "status_app": "0879869867896879667567576",
+      "link_redirect": "https://"
+    }
+  ]
+}
