@@ -3,16 +3,16 @@
     {
 
       "select_ads":"ADMOB",
-      "select_backup_ads":"IRON",
+      "select_backup_ads":"FACEBOOK",
 
       "main_ads_inter":"ca-app-pub-6320795547579018/4292299699",
       "main_ads_banner":"ca-app-pub-6320795547579018/7264935631",
 
-      "backup_ads_inter":"DefaultInterstitial",
-      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_inter":"1541765222840476_1541765292840469",
+      "backup_ads_banner":"1541765222840476_1541765299507135",
 
       "initial_sdk":"INITIALIZE_SDK",
-      "initial_sdk_backup":"115737f3d",
+      "initial_sdk_backup":"INITIALIZE_SDK_BACKUP",
 
       "interval": 5,
 
