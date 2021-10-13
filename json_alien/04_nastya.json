@@ -2,16 +2,16 @@
   "Ads": [
     {
 
-      "select_ads":"ADMOBX",
-      "select_backup_ads":"IRONX",
+      "select_ads":"IRON",
+      "select_backup_ads":"APPLOVIN-M",
 
       "main_ads_inter":"DefaultInterstitial",
       "main_ads_banner":"DefaultBanner",
 
-      "backup_ads_inter":"DefaultInterstitial",
+      "backup_ads_inter":"8db9feceb8395598",
       "backup_ads_banner":"DefaultBanner",
 
-      "initial_sdk":"INITIALIZE_SDK",
+      "initial_sdk":"11792e5cd",
       "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
 
       "interval":0,
@@ -27,7 +27,7 @@
       "hpk5": "vps",
 
       "startappid":"4355345",
-      "ironid":"5464646",
+      "ironid":"11792e5cd",
       "unityid":"5464646",
 
       "main_puzzle": "YES",
