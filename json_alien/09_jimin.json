@@ -2,13 +2,13 @@
   "Ads": [
     {
 
-      "select_ads":"FACEBOOK",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_ads":"ADMOBX",
+      "select_backup_ads":"IRONX",
 
-      "main_ads_inter":"414280103396876_414280153396871",
-      "main_ads_banner":"414280103396876_414280156730204",
+      "main_ads_inter":"DefaultInterstitial",
+      "main_ads_banner":"DefaultBanner",
 
-      "backup_ads_inter":"45ac9f3337b0afb0",
+      "backup_ads_inter":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
 
       "initial_sdk":"INITIALIZE_SDK",
@@ -17,8 +17,8 @@
       "interval":0,
 
 
-      "admob_native": "ca-app-pub-6320795547579018/3602824540",
-      "admob_open": "ca-app-pub-6320795547579018/6037416193",
+      "admob_native": "",
+      "admob_open": "",
 
       "hpk1": "insurance",
       "hpk2": "aparel",
