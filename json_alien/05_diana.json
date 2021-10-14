@@ -2,17 +2,17 @@
   "Ads": [
     {
 
-      "select_ads":"ADMOBX",
-      "select_backup_ads":"IRONX",
+      "select_ads":"APPLOVIN-M",
+      "select_backup_ads":"STARTAPP",
 
-      "main_ads_inter":"DefaultInterstitial",
+      "main_ads_inter":"36e96648fb11288b",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_inter":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
 
       "initial_sdk":"INITIALIZE_SDK",
-      "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
+      "initial_sdk_backup":"204087512",
 
       "interval":0,
 
@@ -26,7 +26,7 @@
       "hpk4": "car",
       "hpk5": "vps",
 
-      "startappid":"4355345",
+      "startappid":"204087512",
       "ironid":"5464646",
       "unityid":"5464646",
 
