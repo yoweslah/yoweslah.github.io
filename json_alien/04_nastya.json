@@ -1,0 +1,38 @@
+{
+  "Ads": [
+    {
+
+      "select_ads":"IRON",
+      "select_backup_ads":"APPLOVIN-M",
+
+      "main_ads_inter":"DefaultInterstitial",
+      "main_ads_banner":"DefaultBanner",
+
+      "backup_ads_inter":"8db9feceb8395598",
+      "backup_ads_banner":"DefaultBanner",
+
+      "initial_sdk":"11792e5cd",
+      "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
+
+      "interval":0,
+
+
+      "admob_native": "",
+      "admob_open": "",
+
+      "hpk1": "insurance",
+      "hpk2": "aparel",
+      "hpk3": "sport",
+      "hpk4": "car",
+      "hpk5": "vps",
+
+      "startappid":"4355345",
+      "ironid":"11792e5cd",
+      "unityid":"5464646",
+
+      "main_puzzle": "YES",
+      "status_app": "0879869867896879667567576",
+      "link_redirect": "https://"
+    }
+  ]
+}

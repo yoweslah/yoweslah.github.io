@@ -1,0 +1,33 @@
+    package com.mugiberkah.dramakoreasubindo;
+
+public class Config {
+    public static final String ADMIN_PANEL_URL = "https://dadampritz.com/estudrakfannewsdk";
+    public static final boolean ENABLE_GRID_MODE = false;
+    public static final boolean ENABLE_RTL_MODE = false;
+    public static final boolean ENABLE_TAB_LAYOUT = true;
+    public static final int GRID_SPAN_COUNT = 3;
+    public static final int LOAD_MORE = 20;
+}
+
+
+    package com.slamet.dramakoreaterbaru.dramakoreagratis.nontondramakoreasubindo.watchkoreandrama;
+
+public class Config {
+    public static final String ADMIN_PANEL_URL = "https://akusehkuat.com/slmtfb";
+    public static final boolean ENABLE_GRID_MODE = false;
+    public static final boolean ENABLE_RTL_MODE = false;
+    public static final boolean ENABLE_TAB_LAYOUT = true;
+    public static final int GRID_SPAN_COUNT = 3;
+    public static final int LOAD_MORE = 20;
+}
+
+   package com.berkahomah.dramakoreasubindo.gratis.dramakoreasubtitleindonesia;
+
+public class Config {
+    public static final String ADMIN_PANEL_URL = "https://restoeibu.com/drkrfan";
+    public static final boolean ENABLE_GRID_MODE = false;
+    public static final boolean ENABLE_RTL_MODE = false;
+    public static final boolean ENABLE_TAB_LAYOUT = true;
+    public static final int GRID_SPAN_COUNT = 3;
+    public static final int LOAD_MORE = 20;
+}
