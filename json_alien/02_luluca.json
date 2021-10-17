@@ -2,16 +2,16 @@
   "Ads": [
     {
 
-      "select_ads":"FACEBOOK",
+      "select_ads":"IRON",
       "select_backup_ads":"APPLOVIN-M",
 
-      "main_ads_inter":"1235683400227660_1235683460227654",
-      "main_ads_banner":"1235683400227660_1235683456894321",
+      "main_ads_inter":"DefaultInterstitial",
+      "main_ads_banner":"DefaultBanner",
 
       "backup_ads_inter":"b26a98dc87a3e46a",
       "backup_ads_banner":"DefaultBanner",
 
-      "initial_sdk":"INITIALIZE_SDK",
+      "initial_sdk":"1178197e5",
       "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
 
       "interval":0,
