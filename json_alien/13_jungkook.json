@@ -2,20 +2,20 @@
   "Ads": [
     {
 
-      "select_backup_ads":"IRON",
-      "select_ads":"APPLOVIN-M",
+      "select_ads":"IRON",
+      "select_backup_ads":"APPLOVIN-M",
 
       "main_ads_inter":"DefaultInterstitial",
       "main_ads_banner":"DefaultBanner",
 
-      "backup_ads_ads_inter":"6229048690501230_6229049000501199",
-      "backup_ads_banner":"6229048690501230_6229048997167866",
+      "backup_ads_ads_inter":"276103d39cccf09f",
+      "backup_ads_banner":"276103d39cccf09f",
 
 
-      "initial_sdk":"INITIALIZE_SDK",
+      "initial_sdk":"115737f3d",
       "initial_sdk_backup":"INITIALIZE_SDK_BACKUP_ADS",
 
-      "interval":0,
+      "interval":1,
 
 
       "admob_native": "",
@@ -28,7 +28,7 @@
       "hpk5": "vps",
 
       "startappid":"204087512",
-      "ironid":"5464646",
+      "ironid":"115737f3d",
       "unityid":"5464646",
 
       "main_puzzle": "YES",
