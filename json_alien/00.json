@@ -17,18 +17,16 @@
       "interval":0,
 
 
-      "admob_native": "",
-      "admob_open": "",
+      "admob_native": "xx",
+      "admob_open": "xx",
+      "admob_open2": "xx",
+      "open_only": "no",
 
       "hpk1": "insurance",
       "hpk2": "aparel",
       "hpk3": "sport",
       "hpk4": "car",
       "hpk5": "vps",
-
-      "startappid":"204087512",
-      "ironid":"5464646",
-      "unityid":"5464646",
 
       "main_puzzle": "YES",
       "status_app": "0879869867896879667567576",
