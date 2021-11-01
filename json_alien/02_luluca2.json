@@ -1,0 +1,38 @@
+{
+  "Ads": [
+    {
+
+      "select_ads":"ADMOB",
+      "select_backup_ads":"IRON",
+
+      "main_ads_inter":"ca-app-pub-6320795547579018/2245866069",
+      "main_ads_banner":"ca-app-pub-6320795547579018/8619702722",
+
+      "backup_ads_inter":"DefaultInterstitial",
+      "backup_ads_banner":"DefaultBanner",
+
+      "initial_sdk":"INITIALIZE_SDK",
+      "initial_sdk_backup":"1178197e5",
+
+      "interval":0,
+
+
+      "admob_native": "ca-app-pub-6320795547579018/8619702722",
+      "admob_open": "ca-app-pub-6320795547579018/4039112277",
+      "admob_open2": "ca-app-pub-6320795547579018/4039112277",
+      "open_only": "NO",
+      "lawas": "YES",
+      "fan": "1235683400227660_1235683450227655",
+
+      "hpk1": "insurance",
+      "hpk2": "aparel",
+      "hpk3": "sport",
+      "hpk4": "car",
+      "hpk5": "vps",
+
+      "main_puzzle": "YES",
+      "status_app": "0879869867896879667567576",
+      "link_redirect": "https://"
+    }
+  ]
+}
