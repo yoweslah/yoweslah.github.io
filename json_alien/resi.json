@@ -14,7 +14,7 @@
       "initial_sdk":"INITIALIZE_SDK",
       "initial_sdk_backup":"11d31a0dd",
 
-      "interval":0,
+      "interval":2,
 
 
       "admob_native": "ca-app-pub-6320795547579018/3265306137",
