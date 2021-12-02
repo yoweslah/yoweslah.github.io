@@ -1,13 +1,13 @@
 {
   "Ads": [
     {
-      "initial_admob":"NO",
+      "initial_admob":"YES",
       "initial_mopub":"NO",
-      "initial_applovin":"YES",
-      "initial_startapp":"YES",
+      "initial_applovin":"NO",
+      "initial_startapp":"NO",
 
-      "select_banner":"STARTAPP",
-      "select_inter":"APPLOVIN",
+      "select_banner":"ADMOB",
+      "select_inter":"ADMOB",
       "select_reward":"XSTARTAPP",
       "select_backup_reward":"XSTARTAPP",
       "select_backup_ads":"XSTARTAPP",
@@ -20,16 +20,16 @@
       "backup_mode": "NO",
 
       "admob_banner": "",
-      "admob_inter": "",
-      "admob_inter2": "",
-      "admob_inter3": "",
-      "admob_inter4": "",
-      "admob_inter5": "",
-      "admob_native": "",
-      "admob_native_banner": "",
-      "admob_open": "",
+      "admob_inter": "ca-app-pub-6320795547579018/5446744477",
+      "admob_inter2": "ca-app-pub-6320795547579018/6216035975",
+      "admob_inter3": "ca-app-pub-6320795547579018/2276790967",
+      "admob_inter4": "ca-app-pub-6320795547579018/5446744477",
+      "admob_inter5": "ca-app-pub-6320795547579018/6216035975",
+      "admob_native": "ca-app-pub-6320795547579018/8646433517",
+      "admob_native_banner": "ca-app-pub-6320795547579018/4711382611",
+      "admob_open": "ca-app-pub-6320795547579018/6665275612",
       "admob_reward":"X",
-      "banner_apa_native":"BANNER",
+      "banner_apa_native":"NATIVE",
 
 
       "interval": 5,
