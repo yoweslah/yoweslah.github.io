@@ -3,7 +3,7 @@
     {
 
       "select_ads":"ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"IRON",
 
       "main_ads_inter":"ca-app-pub-6320795547579018/7783379188",
       "main_ads_banner":"ca-app-pub-6320795547579018/1409542528",
@@ -12,7 +12,7 @@
       "backup_ads_banner":"DefaultBanner",
 
       "initial_sdk":"INITIALIZE_SDK",
-      "initial_sdk_backup":"204087512",
+      "initial_sdk_backup":"129ca4cc5",
 
       "interval":0,
 
@@ -27,7 +27,7 @@
       "hpk5": "vps",
 
       "startappid":"204087512",
-      "ironid":"5464646",
+      "ironid":"129ca4cc5",
       "unityid":"5464646",
 
       "main_puzzle": "YES",
