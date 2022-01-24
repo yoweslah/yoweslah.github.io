@@ -1,0 +1,38 @@
+{
+  "Ads": [
+    {
+
+      "select_ads":"ADMOB",
+      "select_backup_ads":"IRON",
+
+      "main_ads_inter":"ca-app-pub-6320795547579018/4930470231",
+      "main_ads_banner":"ca-app-pub-6320795547579018/3443511631",
+
+      "backup_ads_inter":"DefaultInterstitial",
+      "backup_ads_banner":"DefaultBanner",
+
+      "initial_sdk":"INITIALIZE_SDK",
+      "initial_sdk_backup":"11d31a0dd",
+
+      "interval":2,
+
+
+      "admob_native": "ca-app-pub-6320795547579018/3265306137",
+      "admob_open": "ca-app-pub-6320795547579018/8678143552",
+      "admob_open2": "ca-app-pub-6320795547579018/8678143552",
+      "open_only": "NO",
+      "lawas": "NO",
+      "fan": "no",
+
+      "hpk1": "ca-app-pub-6320795547579018/8496809254",
+      "hpk2": "ca-app-pub-6320795547579018/4557564247",
+      "hpk3": "ca-app-pub-6320795547579018/9618319234",
+      "hpk4": "ca-app-pub-6320795547579018/3109268126",
+      "hpk5": "ca-app-pub-6320795547579018/5543859773",
+
+      "main_puzzle": "YES",
+      "status_app": "0879869867896879667567576",
+      "link_redirect": "https://"
+    }
+  ]
+}
