@@ -2,11 +2,11 @@
   "Ads": [
     {
 
-      "select_ads":"ADMOB",
+      "select_ads":"xxxADMOB",
       "select_backup_ads":"IRON",
 
-      "main_ads_inter":"ca-app-pub-6320795547579018/7783379188",
-      "main_ads_banner":"ca-app-pub-6320795547579018/1409542528",
+      "main_ads_inter":"xxca-app-pub-6320795547579018/7783379188",
+      "main_ads_banner":"xxca-app-pub-6320795547579018/1409542528",
 
       "backup_ads_inter":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
@@ -17,8 +17,8 @@
       "interval":0,
 
 
-      "admob_native": "ca-app-pub-6320795547579018/3844134177",
-      "admob_open": "ca-app-pub-6320795547579018/7591807499",
+      "admob_native": "xxca-app-pub-6320795547579018/3844134177",
+      "admob_open": "xxca-app-pub-6320795547579018/7591807499",
 
       "hpk1": "insurance",
       "hpk2": "aparel",
